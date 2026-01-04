@@ -34,6 +34,7 @@ OT: Genesis 5-6
 - For example, a paradise (Garden of Eden) with only one rule? Does not work, humanity rebelled against God.
 - A world with no law (pre-Flood)? No good. Humanity immediately descends into chaos.
 - Tomorrow we will see if only keeping the good people works...
+
 NT: Matthew 2
 - Christ was seen as a threat to the political and religious establishment, but as incoming savior by those 'far off' (the Wise Men)
 - King Herod was more than willing to slaughter innocent children. He also killed his own sons and wife, so this was nothing surprising.
