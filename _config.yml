@@ -3,31 +3,10 @@ description: >
   Pontius Pilate asked Jesus Christ "What is truth?" (John 18:38).
   Each of us must ask this question.
 
-# author: "Jacob Ivanov"
-
 url: "https://jacobjivanov.github.io"
 baseurl: "/what-is-truth"
 
 theme: jekyll-theme-minimal
 
-# markdown: kramdown
-# highlighter: rouge
-
-# future: false
-
-# permalink: /:year/:month/:day/:title/
-
-# excerpt_separator: "\n\n"
-
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
-
-# lang: en
-# timezone: America/New_York
-
-# exclude:
-  # - README.md
-  # - LICENSE
-  # - .github/
-
