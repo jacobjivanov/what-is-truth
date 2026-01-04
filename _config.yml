@@ -1,7 +1,10 @@
 # Site settings
 title: "What is Truth?"
-description: "Pontius Pilate asked Jesus Christ "What is Truth" (John 18:38)\nEach of us must ask this question."
+description: |
+  Pontius Pilate asked Jesus Christ "What is Truth" (John 18:38)
+  Each of us must ask this question.
 
 # Theme settings
 theme: jekyll-theme-minimal
+
 
