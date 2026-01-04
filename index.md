@@ -4,6 +4,7 @@ description: "Pontius Pilate asked Jesus Christ 'What is Truth' (John 18:38)\nEa
 ---
 
 ## Posts
+Posts count: {{ site.posts | size }}
 
 {% for post in site.posts %}
 ### [{{ post.title }}]({{ post.url }})
