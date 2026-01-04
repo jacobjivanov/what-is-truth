@@ -1,6 +1,3 @@
-# --------------------------
-# Site identity
-# --------------------------
 title: "What Is Truth?"
 description: >
   Pontius Pilate asked Jesus Christ "What is truth?" (John 18:38).
@@ -8,50 +5,27 @@ description: >
 
 author: "Jacob Ivanov"
 
-# --------------------------
-# URL settings (CRITICAL for project pages)
-# --------------------------
 url: "https://jacobjivanov.github.io"
 baseurl: "/what-is-truth"
 
-# --------------------------
-# Theme
-# --------------------------
 theme: jekyll-theme-minimal
 
-# --------------------------
-# Build & behavior
-# --------------------------
 markdown: kramdown
 highlighter: rouge
 
-# Hide future-dated posts (default, but explicit)
 future: false
 
-# --------------------------
-# Posts
-# --------------------------
 permalink: /:year/:month/:day/:title/
 
-# Excerpts (used on index page)
 excerpt_separator: "\n\n"
 
-# --------------------------
-# Plugins (GitHub Pages–safe)
-# --------------------------
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# --------------------------
-# SEO (used by jekyll-seo-tag)
-# --------------------------
 lang: en
 timezone: America/New_York
 
-# --------------------------
-# Exclude from build
-# --------------------------
 exclude:
   - README.md
   - LICENSE
