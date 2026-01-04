@@ -1,4 +1,4 @@
 ---
-title: Truth at all Costs
+title: What is Truth?
+description: "Pontius Pilate asked Jesus Christ 'What is Truth' (John 18:38)\nEach of us must ask this question."
 ---
-Martin Luther, defending his 95 Theses, wrote "peace if possible, truth at all costs".
