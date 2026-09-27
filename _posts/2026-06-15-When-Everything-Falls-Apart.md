@@ -81,32 +81,32 @@ Jeremiah trusted in the eschatological promise of his day, that God would restor
 Amen. Amen. Before we conclude, I want to just read the lyrics of a song that I believe we need to be reminded of.
 
 *My Faith has Found a Resting Place*
-> My faith has found a resting place,
-> Not in device nor creed; 
-> I trust the Ever-living One,
-> His wounds for me shall plead.
->
-> I need no other argument,
-> I need no other plea;
-> it is enough that Jesus died,
-> And that He died for me.
->
-> Enough for me that Jesus saves,
-> This ends my fear and doubt;
-> A sinful soul I come to Him,
-> He’ll never cast me out.
->
-> My heart is leaning on the Word,
-> The written Word of God,
-> Salvation by my Savior’s name,
-> Salvation through His blood.
->
-> My great Physician heals the sick,
-> The lost He came to save;
-> For me His precious blood He shed,
-> For me His life He gave.
->
-> I need no other argument,
-> I need no other plea;
-> it is enough that Jesus died,
-> And that He died for me.
+> My faith has found a resting place,  
+> Not in device nor creed;  
+> I trust the Ever-living One,  
+> His wounds for me shall plead.  
+>  
+> I need no other argument,  
+> I need no other plea;  
+> it is enough that Jesus died,  
+> And that He died for me.  
+>  
+> Enough for me that Jesus saves,  
+> This ends my fear and doubt;  
+> A sinful soul I come to Him,  
+> He’ll never cast me out.  
+>  
+> My heart is leaning on the Word,  
+> The written Word of God,  
+> Salvation by my Savior’s name,  
+> Salvation through His blood.  
+>  
+> My great Physician heals the sick,  
+> The lost He came to save;  
+> For me His precious blood He shed,  
+> For me His life He gave.  
+>  
+> I need no other argument,  
+> I need no other plea;  
+> it is enough that Jesus died,  
+> And that He died for me.  
