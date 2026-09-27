@@ -8,8 +8,6 @@ This post is a transcript of a sermon from FGC Youth on 11 MAY 2026
 
 ***
 
-Praise God, Church
-
 **John 18:33-38** (ESV)
 > So Pilate entered his headquarters again and called Jesus and said to him, “Are you the King of the Jews?” Jesus answered, “Do you say this of your own accord, or did others say it to you about me?” Pilate answered, “Am I a Jew? Your own nation and the chief priests have delivered you over to me. What have you done?” Jesus answered, “My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting, that I might not be delivered over to the Jews. But my kingdom is not from the world.” Then Pilate said to him, “So you are a king?” Jesus answered, “You say that I am a king. For this purpose I was born and for this purpose I have come into the world—to bear witness to the truth. Everyone who is of the truth listens to my voice.” Pilate said to him, “What is truth?” 
 
